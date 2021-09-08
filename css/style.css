@@ -40,6 +40,10 @@
 
 .red {
     background-color: red;
+    color:yellow;
+}
+
+.subtitle{
     color: yellow;
 }
 
@@ -64,7 +68,7 @@
     width: 100%;
 }
 
-.container h2{
+.container-shoe h2{
     text-align: center;
     font-size: 35px;
     padding-bottom: 20px;
